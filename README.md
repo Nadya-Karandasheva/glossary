@@ -1,6 +1,6 @@
 ### Как запустить:
-1. install `pydantic`, `uvicorn` and `FastAPI`: `pip install pydantic uvicorn fastapi`.<br>
-2. run command `uvicorn main:app --reload` from repository root.<br>
+1. install `pydantic`, `uvicorn` and `FastAPI`: `pip install pydantic uvicorn fastapi`<br>
+2. run command `uvicorn main:app --reload`<br>
 
 
 ### Handlers usage 
